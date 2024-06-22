@@ -9,8 +9,8 @@ Hi 👋 I am a young developer from <img width="20" height="20" align="center" s
 ### Project And Hosting
 
 <!-- BLOG-POST-LIST:START -->
-- Alpite Bot (Web panel, moderation, level, user)
-- Vallsofter.gg (Software development)
-- Hostabu İnformatics (This power of informatics!)
+- Alpite Bot - Web panel, moderation, level, user
+- Vallsofter.gg - Software development
+- Hostabu İnformatics - This power of informatics!
 
 <!-- BLOG-POST-LIST:END -->
