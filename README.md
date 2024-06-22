@@ -15,11 +15,3 @@ Hi 👋 I am a young developer from <img width="20" height="20" align="center" s
 - [Must: Ne İzlediğinizi Bilin](https://eggsy.xyz/blog/must-ne-izlediginizi-bilin)
 - [İki Türk, Üç Yabancı, Beş Gün: İstanbul](https://eggsy.xyz/blog/iki-turk-uc-yabanci-bes-gun)
 <!-- BLOG-POST-LIST:END -->
-
-### Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/eggsy">
-    <img src='https://cdn.jsdelivr.net/gh/eggsy/.github/sponsors.svg'/>
-  </a>
-</p>
