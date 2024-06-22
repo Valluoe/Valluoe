@@ -4,8 +4,22 @@
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eggsy&theme=dark&hide_border=true&layout=compact">
 
-Hi 👋 I am a young developer from <img width="20" height="20" align="center" src="https://i.imgur.com/ff547ZT.png"> **Türkiye**. In this adventure, which I started with computers at a young age, I got involved in software and I take part in the website back-end and front-end sections.
+Hi 👋 I am a young developer from <img width="20" height="20" align="center" src="https://i.imgur.com/ff547ZT.png"> **Türkiye**. I've been professionally creating web apps since 2021 use Node.js and many more modern technologies! I'm always trying to improve myself and learn more about the industry.
 
-###Project 
+### My latest blog posts
 
-Alpite bot is a general level, moderation and general bot that can meet every need of your advanced server with web panel.
+<!-- BLOG-POST-LIST:START -->
+- [Google Meet&#39;te Katılımcıların Listesini Alma](https://eggsy.xyz/blog/google-meet-katilimci-kaydi)
+- [Muş&#39;ta Okumak](https://eggsy.xyz/blog/musta-okumak)
+- [Raycast: Geliştiriciler İçin Üretkenlik Aracı](https://eggsy.xyz/blog/raycast-uretkenlik-araci)
+- [Must: Ne İzlediğinizi Bilin](https://eggsy.xyz/blog/must-ne-izlediginizi-bilin)
+- [İki Türk, Üç Yabancı, Beş Gün: İstanbul](https://eggsy.xyz/blog/iki-turk-uc-yabanci-bes-gun)
+<!-- BLOG-POST-LIST:END -->
+
+### Sponsors
+
+<p align="center">
+  <a href="https://github.com/sponsors/eggsy">
+    <img src='https://cdn.jsdelivr.net/gh/eggsy/.github/sponsors.svg'/>
+  </a>
+</p>
